@@ -2,12 +2,11 @@
 
 ###  💻 Tecnologias utilizadas: Cucumber, Selenium Web Driver, Junit & Java
 # O desafio
-## Validar o cenário apresentado na feature
+### Validar o cenário apresentado na feature
 
 # Caso de teste
 
-**Cenário:** Validar pesquisa pelos itens mencionados na tabela
- 
+### **Cenário:** Validar pesquisa pelos itens mencionados na tabela da feature
 
 # Pré requisitos
 
